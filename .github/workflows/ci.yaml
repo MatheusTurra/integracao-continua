@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v2
         with: 
           push: true
-          tags: MatheusTurra/integracao_continua:latest
+          tags: matheusturra/integracao_continua:latest
